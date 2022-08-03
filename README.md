@@ -1,4 +1,4 @@
-# Animal Shop Desktop App C++ Qt SQL
+# Animal Shop Desktop App C++ Qt SQL In collaboration with Souhaeil Louati
 
 A desktop application for managing the purchase of various animals. The user interface is made with QT Library in C++ and SQL Relational Database.
 
